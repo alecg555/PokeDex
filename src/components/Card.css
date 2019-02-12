@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+.CardPhoto{
+    width: 260px;
+    height: 300px;
+	float: left;
+	border: 3px solid black;
+    
+}
+h5{
+  
+ float:right;
+}
+
+ 
+.planta{
+   /*HERB background: rgb(56, 206, 30);*/
+  /*WATER background: rgb(104, 179, 240);*/
+  /*FIRE background: rgb(226, 41, 46);*/
+ /*ACERO background: rgb(213, 207, 214);*/
+ /*Electrico background: rgb(255, 255, 13); */
+/*Fantasma background: rgb(125, 0, 251); */
+/*Hielo rgb(177, 240, 245); */
+/*LUCHA background:rgb(160, 31, 16);*/
+/*Normal background:rgb(232, 232, 232);*/
+/*ROCA background:rgb(164, 100, 4) ;*/
+/*VENENO background: rgb(174, 0, 174);*/
+/*Volador background: rgb(33, 107, 190);*/
+  background: rgb(56, 206, 30);
+
+
+}
+.agua{background: rgb(104, 179, 240);}
+.fuego{background: rgb(226, 41, 46);}
+.acero{background: rgb(213, 207, 214);}
+.electrico{ background: rgb(255, 255, 13);}
+.fantasma{background: rgb(125, 0, 251);}
+.hielo{ background:rgb(177, 240, 245);}
+.lucha{background:rgb(160, 31, 16);}
+.normal{background:rgb(232, 232, 232);}
+.roca{background:rgb(164, 100, 4) ;}
+.veneno{background: rgb(174, 0, 174);}
+.volador{ background: rgb(33, 107, 190);}
+
+#types{
+	display: inline-flex;
+}
+
+.divinfo{
+
+font-family: 'Orbitron', sans-serif;
+font-size: 30px;
+}
+
+.phototype{
+	width: 65px;
+
+}
+.number{
+	
+text-align: right;
+}
+.divtype{
+
+font-family: 'Orbitron', sans-serif;
+font-size: 20px;
+text-align: left;
+}
